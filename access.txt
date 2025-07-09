@@ -1,0 +1,4 @@
+# phone,status
+01111111111,allow
+01222222222,deny
+01033333333,allow
