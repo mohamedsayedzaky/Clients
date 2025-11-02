@@ -1,4 +1,4 @@
 # phone,status 
-101,allow
+101,deny
 102,allow
 103,allow
